@@ -1,4 +1,4 @@
-# IA_missionarios_canibais
+# IA_missionários_canibais
 # Descrição
 Aplicando algoritmos de busca para resolver o problema dos missionarios canibais.
 
@@ -6,7 +6,7 @@ Aplicando algoritmos de busca para resolver o problema dos missionarios canibais
 
 Utilizando Aprofundamento Iterativo e Força Bruta em python.
 
-Carlos Magno, Lucas Félix, Samuel Ribeiro, Matheus Reis
+Carlos Magno, Lucas Félix, Matheus Reis, Samuel Ribeiro.
 
 IA - Inteligência Artificial
 
